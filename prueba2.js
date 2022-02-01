@@ -7,3 +7,6 @@ if (EdadFrancisco > EdadNicolas) {
     console.log(`Francisco es mayor que Nicolas por ${diferenciaEdad} años`);
 
 }
+
+//Estoy haciendo modificaciones desde la rama de la notebook
+var Capo
