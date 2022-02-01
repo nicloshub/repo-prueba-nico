@@ -7,3 +7,5 @@ if (EdadFrancisco > EdadNicolas) {
     console.log(`Francisco es mayor que Nicolas por ${diferenciaEdad} años`);
 
 }
+
+//Y ahora estoy editando desde otra rama
